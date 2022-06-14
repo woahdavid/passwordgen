@@ -51,7 +51,7 @@ header {
 }
 
 .card-body {
-  min-height: 100px;
+  min-height: 10px;
 }
 
 .card-footer {
@@ -90,7 +90,7 @@ header {
 
 button[disabled] {
   cursor: default;
-  background: #c0c7cf;
+  background: #cfc1c0;
 }
 
 .float-right {
